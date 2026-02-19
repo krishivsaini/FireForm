@@ -41,6 +41,14 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 🏆 Acknowledgements and Contributors
 This project was built in 48 hours for the Reboot the Earth 2025 hackathon. Thank you to the United Nations and UC Santa Cruz for hosting this incredible event and inspiring us to build solutions for a better future.
 
+## 📜 Citation
+
+If you use FireForm in your research or project, please cite it using the following metadata:
+
+[![Cite this repository](https://img.shields.io/badge/Cite-FireForm-blue.svg)](CITATION.cff)
+
+You can also use the "Cite this repository" button in the GitHub repository sidebar to export the citation in your preferred format.
+
 __Contributors:__ 
 - Juan Álvarez Sánchez (@juanalvv)
 - Manuel Carriedo Garrido
