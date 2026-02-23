@@ -6,3 +6,7 @@ fastapi
 uvicorn
 pydantic
 sqlmodel
+pytest
+httpx
+numpy<2
+ollama
